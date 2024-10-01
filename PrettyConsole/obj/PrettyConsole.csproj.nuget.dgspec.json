@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alien\\source\\repos\\_Packs\\PrettyConsole\\PrettyConsole\\PrettyConsole.csproj": {}
+    "/home/mohammad/projects/PrettyConsole/PrettyConsole/PrettyConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alien\\source\\repos\\_Packs\\PrettyConsole\\PrettyConsole\\PrettyConsole.csproj": {
+    "/home/mohammad/projects/PrettyConsole/PrettyConsole/PrettyConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alien\\source\\repos\\_Packs\\PrettyConsole\\PrettyConsole\\PrettyConsole.csproj",
+        "projectUniqueName": "/home/mohammad/projects/PrettyConsole/PrettyConsole/PrettyConsole.csproj",
         "projectName": "PrettyConsole",
-        "projectPath": "C:\\Users\\Alien\\source\\repos\\_Packs\\PrettyConsole\\PrettyConsole\\PrettyConsole.csproj",
-        "packagesPath": "C:\\Users\\Alien\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alien\\source\\repos\\_Packs\\PrettyConsole\\PrettyConsole\\obj\\",
+        "projectPath": "/home/mohammad/projects/PrettyConsole/PrettyConsole/PrettyConsole.csproj",
+        "packagesPath": "/home/mohammad/.nuget/packages/",
+        "outputPath": "/home/mohammad/projects/PrettyConsole/PrettyConsole/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alien\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mohammad/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,15 +35,16 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
